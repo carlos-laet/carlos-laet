@@ -1,16 +1,24 @@
-### Hi there 👋
+<img align="right" src="https://user-images.githubusercontent.com/60224074/117709076-e6373f80-b1a6-11eb-8b18-71e439e32d61.png" width="300"/>
 
-<!--
-**carlos-laet/carlos-laet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello World! Welcome to my profile 👋
+
+ -- :construction_worker: My name is Carlos Eduardo
+ 
+ -- :school: Currently studying Computer Science 5/8
+
+-- :heart: I love my profession
+
+---
+
+-- :rocket: Study and dedication, this is the focus
+
+-- :office: I’m currently working at [Qintess](https://qintess.com/pt_br)
+
+-- :computer: I'm a Full Stack developer
+
+
+
+
+
