@@ -14,7 +14,7 @@
 
 -- :rocket: Study and dedication, this is the focus
 
--- :office: I’m currently working at [Qintess](https://qintess.com/pt_br)
+-- :office: I’m currently working at [Avanade](https://www.avanade.com/pt-br)
 
 -- :computer: I'm a Full Stack developer
 
