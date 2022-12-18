@@ -14,7 +14,7 @@
 
 -- :rocket: Study and dedication, this is the focus
 
--- :office: I’m currently working at [Avanade](https://www.avanade.com/pt-br)
+-- :office: I’m currently working at [F1rst](https://f1rsttecnologia.gupy.io/)
 
 -- :computer: I'm a Full Stack developer
 
