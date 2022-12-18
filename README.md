@@ -6,7 +6,7 @@
 
  -- :construction_worker: My name is Carlos Eduardo
  
- -- :school: Currently studying Computer Science 6/8
+ -- :school: Currently studying Computer Science 7/8
 
 -- :heart: I love my profession
 
